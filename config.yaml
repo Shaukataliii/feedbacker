@@ -1,0 +1,12 @@
+classification_role: "You're a analytical person."
+fb_generation_role: "You're a professional customer care representative."
+
+fb_classification_prompt: 'Classify the sentiment of this review as positive, negative, neutral or worse (use one word). Review: {review}'
+
+positive_fb_prompt: 'Generate a short, friendly thank-you note for the following positive review. If the review mentions any product details, incorporate them to make the note more personalized. Review: {review}'
+neutral_fb_prompt: 'Generate a brief, friendly request asking for more information regarding the following neutral review. If the review mentions any product details, personalize the message accordingly. Review: {review}'
+
+CUSTOMER_SUBJECT: 'We Appreciate Your Feedback! A Special Note Inside'
+AGENT_SUBJECT: 'Received Worse Feedback! Handle this.'
+AGENT_MESSAGE: "Please address the customer's concerns mentioned in the negative review promptly. Ensure to acknowledge their feedback, apologize for any inconvenience caused, and offer a suitable resolution or compensation if applicable. Document the interaction for future reference."
+SENDER_EMAIL: 'YOUR_EMAIL_HERE'
