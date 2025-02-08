@@ -14,7 +14,7 @@
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/feedbacker.git
+git clone https://github.com/Shaukataliii/feedbacker.git
 cd feedbacker
 ```
 
@@ -52,4 +52,3 @@ This project is licensed under the MIT License.
 ## Author
 
 Developed by [Shaukat Ali Khan](https://github.com/Shaukataliii)
-```
